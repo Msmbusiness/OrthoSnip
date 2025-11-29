@@ -5,7 +5,7 @@ OrthoSnip is an **orthopedic EMR documentation assistant**.
 It helps clinicians turn messy real-world inputs (screen snips, PDFs, dictation, ROM measurements) into clearer, more structured documentation — while keeping everything **local, clinician-controlled, and no-cloud**.
 
 > **Tagline:**  
-> Clinician-led, local-first, no-cloud open-source tools for orthopedic EMR and AI-assisted documentation.
+> Clinician-led, local-first, no-cloud tools for orthopedic EMR and AI-assisted documentation.
 
 ---
 
@@ -94,6 +94,27 @@ pip install -r requirements.txt
 
 # Start the GUI (adjust script name if different)
 python OrthoSnip.py
+OrthoSnip is released under the OrthoSnip License Agreement (Non-Commercial Use).
 
-python SnipEMRHelper.py
+You may use OrthoSnip on your own computer for personal, educational, research,
+or internal clinical documentation support.
 
+You may not redistribute OrthoSnip, integrate it into commercial EMR systems,
+or offer it as a paid or hosted service without a separate commercial license.
+
+All rights are reserved by the author.
+
+See the LICENSE
+ file in this repository for the full text.
+
+Commercial use
+
+If you are an EMR vendor, healthcare IT company, or other commercial entity interested in:
+
+integrating OrthoSnip into your product,
+
+distributing it to your customers, or
+
+obtaining support and maintenance,
+
+please contact the author to discuss a commercial license and integration agreement.
